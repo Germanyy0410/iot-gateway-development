@@ -1,0 +1,3 @@
+0 Maskable
+1 Non-maskable
+2 Absent
